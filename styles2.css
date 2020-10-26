@@ -1,0 +1,35 @@
+body {
+  background-color: #ffa5a5;
+}
+
+h2 {
+  color: #af2d2d;
+  font-size: 50px;
+}
+
+.chr {
+  color: #87431d;
+  position: relative;
+  top: 90px;
+  border: dotted;
+}
+
+.second-box {
+  font-family: 'Abril Fatface', cursive;
+  position: relative;
+  top: 100px;
+  padding-left: 40px;
+}
+
+.first-box {
+  line-height: 1;
+  height: 120px;
+  padding: 30px 40px 40px;
+  font-size: 20px;
+}
+
+.ph-img {
+  position: absolute;
+  left: 600px;
+  top: 100px;
+}
